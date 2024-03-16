@@ -4,126 +4,126 @@ Let's run a command whoami :)
 
 ### 1. Tell me about yourself.
 
-As a full stack developer with over 10 years of experience, I have successfully delivered web
-applications in various domains, such as delivery service, CRM/ERP, and API development. I have a
-strong background in computer science and a bachelor's degree from Technical University.
+   As a full stack developer with over 10 years of experience, I have successfully delivered web
+   applications in various domains, such as delivery service, CRM/ERP, and API development. I have a
+   strong background in computer science and a bachelor's degree from Technical University.
 
-My core competencies include Laravel, Vue.js, JavaScript, jQuery, MySQL, nosql databases,
-PostgreSQL, REST APIs, and AWS. I follow domain-driven development and modern principles,
-design patterns, and clean code programming, such as SOLID, OOP, DRY, KISS, and PSR. I also have
-experience in code review, mentoring, and Agile/Scrum methodologies. At my most recent role at
-Marvel Distribution, I streamlined the onboarding process for new engineers by creating
-comprehensive guides and how-tos on the technologies used by the team. I also contributed to a side
-project at Realant, an intellectual copyright protection platform, where I was responsible for new
-features development, troubleshooting, problem-solving and bug fixing.
+   My core competencies include Laravel, Vue.js, JavaScript, jQuery, MySQL, nosql databases,
+   PostgreSQL, REST APIs, and AWS. I follow domain-driven development and modern principles,
+   design patterns, and clean code programming, such as SOLID, OOP, DRY, KISS, and PSR. I also have
+   experience in code review, mentoring, and Agile/Scrum methodologies. At my most recent role at
+   Marvel Distribution, I streamlined the onboarding process for new engineers by creating
+   comprehensive guides and how-tos on the technologies used by the team. I also contributed to a side
+   project at Realant, an intellectual copyright protection platform, where I was responsible for new
+   features development, troubleshooting, problem-solving and bug fixing.
 
-I am passionate about creating high-quality, scalable, and secure web applications that solve realworld
-problems and add value to users and clients. I am always eager to learn new technologies and best
-practices, and to collaborate with other developers and stakeholders. I am looking for new
-opportunities to apply my skills and expertise in a challenging and rewarding environment.
+   I am passionate about creating high-quality, scalable, and secure web applications that solve realworld
+   problems and add value to users and clients. I am always eager to learn new technologies and best
+   practices, and to collaborate with other developers and stakeholders. I am looking for new
+   opportunities to apply my skills and expertise in a challenging and rewarding environment.
 
-And as for now I am embarking on a journey of transition, I am gradually shifting my programming
-focus towards Python. With its simplicity, versatility, and extensive community support, Python offers
-a promising path for exploring diverse realms of software development, data analysis, and beyond. As
-I navigate this migration, I anticipate unlocking new opportunities and honing my skills in this
-powerful language.
+   And as for now I am embarking on a journey of transition, I am gradually shifting my programming
+   focus towards Python. With its simplicity, versatility, and extensive community support, Python offers
+   a promising path for exploring diverse realms of software development, data analysis, and beyond. As
+   I navigate this migration, I anticipate unlocking new opportunities and honing my skills in this
+   powerful language.
 
 ### 2. How can you be helpful?
 
-I believe my background as a full-stack web developer uniquely positions me to deliver fast and highquality services to
-your customers. With expertise spanning both front-end and back-end
-technologies, I am equipped to tackle the entire development process, from crafting intuitive user
-interfaces to implementing robust server-side functionalities. This comprehensive skill set enables me
-to optimize performance, troubleshoot effectively, and ensure seamless integration across all aspects
-of web development. As a senior web developer, I am committed to leveraging my experience to drive
-innovation, elevate user experiences, and deliver exceptional results for your organization and its
-customers.
+   I believe my background as a full-stack web developer uniquely positions me to deliver fast and highquality services to
+   your customers. With expertise spanning both front-end and back-end
+   technologies, I am equipped to tackle the entire development process, from crafting intuitive user
+   interfaces to implementing robust server-side functionalities. This comprehensive skill set enables me
+   to optimize performance, troubleshoot effectively, and ensure seamless integration across all aspects
+   of web development. As a senior web developer, I am committed to leveraging my experience to drive
+   innovation, elevate user experiences, and deliver exceptional results for your organization and its
+   customers.
 
 ### 3. Where do you see yourself in five years?
 
-I think I will master my skills in software architecture and become a principle architect.
+   I think I will master my skills in software architecture and become a principle architect.
 
 ### 4. Are you comfortable working with a team of developers to create a single website or application?
 
-I am absolutely comfortable working in a team because there is such things as distributed version
-control systems (VCS) like GIT or centralized VCS like SVN.
+   I am absolutely comfortable working in a team because there is such things as distributed version
+   control systems (VCS) like GIT or centralized VCS like SVN.
 
 ### 5. What are some of the most important skills for a senior web developer to have?
 
-They are:
+   They are:
 
-1) a good understanding what tech stack is better to use for a fast and scalable development,
-2) deciding if it is going to be a Domain-driven or Test-driven development
-3) following modern design patterns like in a book “Gang of four” and understanding which pattern is
-   worth using in any given situation
-4) following Single responsibility, Open-closed, Liskov substitution, Interface segregation,
-   Dependency Inversion principles (SOLID).
-5) following Don't Repeat Yourself (DRY) and Keep It Simple and Straightforward (KISS)
-6) being a good team member
+   1) a good understanding what tech stack is better to use for a fast and scalable development,
+   2) deciding if it is going to be a Domain-driven or Test-driven development
+   3) following modern design patterns like in a book “Gang of four” and understanding which pattern is
+      worth using in any given situation
+   4) following Single responsibility, Open-closed, Liskov substitution, Interface segregation,
+      Dependency Inversion principles (SOLID).
+   5) following Don't Repeat Yourself (DRY) and Keep It Simple and Straightforward (KISS)
+   6) being a good team member
 
 ### 6. How would you describe the relationship between front-end and back-end development?
 
-Now days front-end is communicating with back-end via API and Hypertext Transfer Protocol (HTTP)
-methods: PATCH PUT POS DELETE and GET. The back-end returns result with data and a HTTP status
-code like 200, 500, 404 and so on.
+   Now days front-end is communicating with back-end via API and Hypertext Transfer Protocol (HTTP)
+   methods: PATCH PUT POS DELETE and GET. The back-end returns result with data and a HTTP status
+   code like 200, 500, 404 and so on.
 
 ### 7. What is your process for testing a new website or application before releasing it to the public?
 
-Usually I use unit testing or integration testing and also deploying a new feature into testing server
-following Continuous integration and continuous delivery/continuous deployment (CI/CD) software
-development practice and after deploying app to testing environment I test it myself or delegate the
-manual testing process to testing team.
+   Usually I use unit testing or integration testing and also deploying a new feature into testing server
+   following Continuous integration and continuous delivery/continuous deployment (CI/CD) software
+   development practice and after deploying app to testing environment I test it myself or delegate the
+   manual testing process to testing team.
 
 ### 8. Provide an example of a time when you had to make a difficult decision regarding a website project.
 
-It was about whether to deal with a lot of bad legacy code base and refactoring it or to start that project
-from ground up and use modern tools/best practices in building + documenting a software app so that
-there would not be no need to come up with a decision to rewrite the code again.
+   It was about whether to deal with a lot of bad legacy code base and refactoring it or to start that project
+   from ground up and use modern tools/best practices in building + documenting a software app so that
+   there would not be no need to come up with a decision to rewrite the code again.
 
 ### 9. When approaching a new project, how do you decide which features to include and which to leave out?
 
-I use the task decomposition technique which uses the divide and conquer approach. Estimating size,
-effort, and cost is performed in a stepwise manner by breaking down a project into the main functions
-or related software engineering activities. After that, we discuss the essential features on a team
-meeting including business/data analysts, product owner, project manager. Then, I delegate tasks
-between team members, and we do 2-week sprints using task manager like Jira in a Scrum/Agile kind
-of methodologies.
+   I use the task decomposition technique which uses the divide and conquer approach. Estimating size,
+   effort, and cost is performed in a stepwise manner by breaking down a project into the main functions
+   or related software engineering activities. After that, we discuss the essential features on a team
+   meeting including business/data analysts, product owner, project manager. Then, I delegate tasks
+   between team members, and we do 2-week sprints using task manager like Jira in a Scrum/Agile kind
+   of methodologies.
 
 ### 10. How can Page Visibility API be useful?
 
-It can use-full in enhancing user experience and optimizing performance in conjunction with JS or JS
-frameworks in web development. Here's how it can be beneficial:
+   It can use-full in enhancing user experience and optimizing performance in conjunction with JS or JS
+   frameworks in web development. Here's how it can be beneficial:
 
-1) Optimizing Performance: By detecting when a page is hidden or visible, you can optimize your web
-   application's performance. For instance, when a user switches to another tab or minimizes the
-   browser window, your application can pause non-essential processes such as animations, AJAX
-   requests, or background tasks, conserving system resources.
-2) Managing Resources: With the Page Visibility API, you can intelligently manage resources based on
-   whether the page is visible to the user or not. This can include pausing media playback, deferring the
-   loading of heavy content, or suspending real-time updates that aren't crucial when the user isn't
-   actively viewing the page.
-3) Enhancing User Experience: By utilizing the Page Visibility API, you can create a more seamless and
-   responsive user experience. For example, you can pause autoplay videos or audio when the user
-   switches tabs to prevent unwanted distractions, improving usability and user satisfaction.
-4) Monitoring User Engagement: The visibility state of a page can provide insights into user behavior
-   and engagement. By tracking when users switch tabs or leave the page, you can gather data on session
-   duration, user attention span, and overall interaction patterns, which can inform decisions for
-   optimizing content and features.
+   1) Optimizing Performance: By detecting when a page is hidden or visible, you can optimize your web
+      application's performance. For instance, when a user switches to another tab or minimizes the
+      browser window, your application can pause non-essential processes such as animations, AJAX
+      requests, or background tasks, conserving system resources.
+   2) Managing Resources: With the Page Visibility API, you can intelligently manage resources based on
+      whether the page is visible to the user or not. This can include pausing media playback, deferring the
+      loading of heavy content, or suspending real-time updates that aren't crucial when the user isn't
+      actively viewing the page.
+   3) Enhancing User Experience: By utilizing the Page Visibility API, you can create a more seamless and
+      responsive user experience. For example, you can pause autoplay videos or audio when the user
+      switches tabs to prevent unwanted distractions, improving usability and user satisfaction.
+   4) Monitoring User Engagement: The visibility state of a page can provide insights into user behavior
+      and engagement. By tracking when users switch tabs or leave the page, you can gather data on session
+      duration, user attention span, and overall interaction patterns, which can inform decisions for
+      optimizing content and features.
 
 ### 11. Tell me about an application you regularly use. How would you improve its functionality?
 
-I use a lot of different kind of apps. I would like them to be more private, secure and loyal to their
-users. For example, messenger apps like WhatsApp. I am not quite sure nobody has access to my chats
-with my family and friends. More over, it doesn't have a setting like hiding my phone number from
-other users which are not in my contact list. Showing my phone number could help hackers steal my
-personal information and use it in their illegal needs.
+   I use a lot of different kind of apps. I would like them to be more private, secure and loyal to their
+   users. For example, messenger apps like WhatsApp. I am not quite sure nobody has access to my chats
+   with my family and friends. More over, it doesn't have a setting like hiding my phone number from
+   other users which are not in my contact list. Showing my phone number could help hackers steal my
+   personal information and use it in their illegal needs.
 
 ### 12. You have an idea you want to try out quickly. What tools would you use to prototype it?
 
-I often use tools like PHP or JS Sandboxes like https://phpsandbox.io or https://jsfiddle.net
-Besides that, I use Figma. This tool allows me to create wire-frames and prototypes quickly without
-writing code. It is great for visualizing my ideas and iterating on the design before diving into
-development.
+   I often use tools like PHP or JS Sandboxes like https://phpsandbox.io or https://jsfiddle.net
+   Besides that, I use Figma. This tool allows me to create wire-frames and prototypes quickly without
+   writing code. It is great for visualizing my ideas and iterating on the design before diving into
+   development.
 
 ### 13. Walk me through the process of creating a web page from scratch.
 
@@ -170,6 +170,7 @@ development.
    Push technology redefines how data is disseminated by enabling servers to proactively deliver
    information to client devices. This approach facilitates instant updates and notifications, enhancing
    user engagement and providing seamless access to real-time information.
+
    Benefits:
    1) Real-Time Updates: Push technology enables the instantaneous delivery of updates and notifications
       to client devices, ensuring users receive timely information without any delay or latency.
